@@ -1,0 +1,13 @@
+{
+  "itemGroup.hbm": "Example Mod Tab",
+  "block.hbm.example_block": "Example Block",
+  "item.hbm.example_item": "Example Item",
+
+  "hbm.configuration.title": "hbm Configs",
+  "hbm.configuration.section.hbm.common.toml": "hbm Configs",
+  "hbm.configuration.section.hbm.common.toml.title": "hbm Configs",
+  "hbm.configuration.items": "Item List",
+  "hbm.configuration.logDirtBlock": "Log Dirt Block",
+  "hbm.configuration.magicNumberIntroduction": "Magic Number Text",
+  "hbm.configuration.magicNumber": "Magic Number"
+}
